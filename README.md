@@ -5,9 +5,9 @@ This Github was a dumping ground for a lot of school projects and is mostly used
 ## About
 - 🎓 Graduated with a BA in Computer Science from UVA in 2018
 - 🎮 Been working in games since graduation, with a focus in User Interface design/implementation
-- 🛹 Shipped THPS 1+2 at Vicarious Visions as a UI engineer
+- 🛹 Shipped THPS 1+2 at Vicarious Visions as a UI engineer in 2020
+- 🕸️ Currently working on web dev player support tools with Riot Games
 
 ## How to get in touch:
 - 🐦 Twitter [@susannahcodes](https://www.twitter.com/susannahcodes)
 - ✉️ Email: susannahcodes@gmail.com
-- 🤝 LinkedIn [/in/jonesms](https://www.linkedin.com/in/jonesms)
